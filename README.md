@@ -2,7 +2,7 @@
 ---
 
 ## 👋 Hey there! I'm Thanooj Khan
-### 💻 MERN Stack Developer | Mechanical Engineer | Steel Structural Construction | Farmer | Web Developer
+💻 MERN Stack Developer | Mechanical Engineer | Steel Structural Construction | Farmer | Web Developer
 #### Exploring, learning, and embracing self-love to the fullest.
 
 ## 🌐 Connect with me:
