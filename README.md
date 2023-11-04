@@ -1,11 +1,11 @@
 
 ---
 
-## Hey Hey!! Thanooj Khan Here... ✋🏻😃<br>💻 MERN Stack Developer
-Mechanical Engineer | Steel Structural Construction| Farmer | Web Developer<br> Exploring, learning, and embracing self-love to the fullest. 
+## 👋 Hey there! I'm Thanooj Khan
+### 💻 MERN Stack Developer | Mechanical Engineer | Steel Structural Construction | Farmer | Web Developer
+#### Exploring, learning, and embracing self-love to the fullest.
 
-
-## 🌐 Socials:
+## 🌐 Connect with me:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thanoojkhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanooj-pelamkulangara-a9244359) 
 
 ## 💻 Tech Stack:
