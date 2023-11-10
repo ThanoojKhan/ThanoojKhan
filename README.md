@@ -2,7 +2,7 @@
 ---
 
 ## 👋 Hey there! I'm Thanooj Khan
-MERN Stack Developer | Mechanical Engineer | Steel Structural Construction | Farmer
+MERN Stack Developer | Mechanical Engineer | Ex-Steel Structural Construction | Ex-Farmer
 #### Exploring, learning, and embracing self-love to the fullest.
 ##
 
