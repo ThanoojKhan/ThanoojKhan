@@ -2,9 +2,8 @@
 ---
 
 ## 👋 Hey there! I'm Thanooj Pelamkulangara
-MERN Stack Developer | SaaS & Healthcare Systems | Backend-Focused | Production Deployment
-#### Exploring, learning and embracing self-love to the fullest.
-##
+
+Backend-focused Full Stack Developer (MERN) building scalable SaaS platforms, secure APIs and production-ready systems.
 
 ## 🌐 Connect with me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://thanoojkhan.github.io/Thanooj-Pelamkulangara/)
