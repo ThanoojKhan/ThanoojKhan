@@ -43,10 +43,14 @@ Backend-focused Full Stack Developer (MERN) building scalable SaaS platforms, se
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThanoojKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThanoojKhan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanoojKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ThanoojKhan&show_icons=true&theme=radical" height="170"/>
+<img src="https://streak-stats.demolab.com?user=ThanoojKhan&theme=radical" height="170"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanoojKhan&layout=compact&theme=radical" height="170"/>
+</p>
 
 ---
 
