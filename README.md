@@ -63,11 +63,12 @@ I work across the stack - from crafting responsive frontends to designing secure
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanoojKhan&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanoojKhan&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
+<p align="center"> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ThanoojKhan&show_icons=true&theme=radical" height="170"/>  -->
+  <img src="https://streak-stats.demolab.com?user=ThanoojKhan&theme=radical" height="170"/> 
+</p> 
+<p align="center"> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanoojKhan&layout=compact&theme=radical" height="170"/>  -->
 </p>
 
 ## Production Practices
