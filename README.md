@@ -1,15 +1,34 @@
 
 ---
 
-## 👋 Hey there! I'm Thanooj Pelamkulangara
+## Hey there! I'm Thanooj Pelamkulangara
 
-Backend-focused Full Stack Developer (MERN) building scalable SaaS platforms, secure APIs and production-ready systems.
+Full Stack Engineer with a backend-first mindset, building scalable SaaS platforms, production-grade APIs and complete end-to-end systems.
+I work across the stack - from crafting responsive frontends to designing secure, high-performance backend architectures and managing real-world deployments.
 
 ## 🌐 Connect with me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://thanoojkhan.github.io/Thanooj-Pelamkulangara/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanooj-pelamkulangara)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thanoojkhan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/thanu1495/)
+
+## What I Do
+- Build complete SaaS systems (frontend + backend + infra)
+- Design scalable backend architectures (Node.js, PostgreSQL, MongoDB)
+- Implement secure authentication & RBAC systems
+- Develop real-time features (WebSockets, notifications)
+- Deploy and manage production systems (AWS, Nginx, PM2)
+- Integrate payments, third-party APIs and automation workflows
+
+## Engineering Highlights
+* Built a 0 → 1 healthcare SaaS platform
+* Backend-first thinking with full-stack execution
+* Scalable backend architectures (Node.js, PostgreSQL, MongoDB)
+* Clean, modular architecture (not quick hacks)
+* Performance and scalability as defaults
+* Strong error handling, logging and system reliability
+* Built for real users, not just demos
+
 ## 💻 Tech Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -45,13 +64,17 @@ Backend-focused Full Stack Developer (MERN) building scalable SaaS platforms, se
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ThanoojKhan&show_icons=true&theme=radical" height="170"/>
-<img src="https://streak-stats.demolab.com?user=ThanoojKhan&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThanoojKhan&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanoojKhan&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanoojKhan&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
 </p>
 
----
+## Production Practices
+* Centralized error handling & logging
+* API security (JWT, validation, rate limiting)
+* Caching & performance optimization
+* Modular architecture (MVC + service layers)
+* Fault-tolerant system design
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
